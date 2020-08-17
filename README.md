@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on some cool
+- 🌱 And I’m currently learning a lot like always
+
 <!--
 **joseantoniocampillo/joseantoniocampillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
